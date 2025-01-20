@@ -28,7 +28,7 @@ A well-structured README file enhances the professionalism and clarity of your r
 ### How to Run:  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/my-coding-journey.git
+   git clone https://github.com/amanshaikh30/my-coding-journey.git
    cd my-coding-journey
    ```  
 2. Navigate to the respective language folder.  
